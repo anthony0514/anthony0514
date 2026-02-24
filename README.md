@@ -1,9 +1,5 @@
 # 🚀 Hello, I'm Anthony
 
-📫 **Contact:** [anthony0514@naver.com](mailto:anthony0514@naver.com)
-
----
-
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
