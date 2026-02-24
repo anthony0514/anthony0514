@@ -20,29 +20,11 @@
 
 ---
 
-### 📂 Current Focus
-* **Computer Vision:** Developing synthetic data pipelines for object detection (YOLO).
-* **Security:** Exploring homomorphic encryption and IoT security integration.
-* **Hardware:** Optimizing computer vision models on edge devices like Raspberry Pi.
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthony0514&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony0514&layout=compact&theme=default&hide_border=true" width="45%"/>
-</p>
-
----
-
 ### 📫 Contact
 <p>
   <a href="mailto:anthony0514@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
 </p>
 
 <br/>
-
-> *“Code is like humor. When you have to explain it, it’s bad.”*
