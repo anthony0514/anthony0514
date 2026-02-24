@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Anthony](https://anthony0514.github.io/resume/)
+# 🚀 Hello, I'm Anthony
 
 ### 🛠 Tech Stack
 <p>
