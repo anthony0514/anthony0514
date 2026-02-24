@@ -1,10 +1,6 @@
 # 🚀 Hello, I'm Anthony
 
-<p>
-  <a href="mailto:anthony0514@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-</p>
+📫 **Contact:** [anthony0514@naver.com](mailto:anthony0514@naver.com)
 
 ---
 
@@ -17,4 +13,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
-<br/>
